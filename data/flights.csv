@@ -1,0 +1,15 @@
+flight_id,airline,flight_number,origin,destination,dest_code,flight_date,departure_time,flight_type,price_usd
+FN101,Fastjet,FN8331,Harare (HRE),Johannesburg (JNB),JNB,2026-11-15,07:25,Regional,220
+FN102,Fastjet,FN8003,Harare (HRE),Victoria Falls (VFA),VFA,2026-11-15,08:50,Domestic,140
+FN103,Fastjet,FN8441,Harare (HRE),Bulawayo (BUQ),BUQ,2026-11-15,06:00,Domestic,110
+UM201,Air Zimbabwe,UM322,Harare (HRE),Victoria Falls (VFA),VFA,2026-11-16,07:30,Domestic,125
+UM202,Air Zimbabwe,UM438,Harare (HRE),Dar es Salaam (DAR),DAR,2026-11-16,11:00,Regional,380
+4Z301,Airlink,4Z109,Harare (HRE),Johannesburg (JNB),JNB,2026-11-15,07:10,Regional,245
+4Z302,Airlink,4Z383,Harare (HRE),Cape Town (CPT),CPT,2026-11-15,09:25,Regional,360
+4Z303,Airlink,4Z411,Harare (HRE),Durban (DUR),DUR,2026-11-15,13:25,Regional,310
+ET401,Ethiopian Airlines,ET892,Harare (HRE),Addis Ababa (ADD),ADD,2026-11-15,02:20,International,680
+ET402,Ethiopian Airlines,ET034,Harare (HRE),Lilongwe (LLW),LLW,2026-11-15,13:50,Regional,290
+KQ501,Kenya Airways,KQ706,Harare (HRE),Nairobi (NBO),NBO,2026-11-15,11:55,Regional,520
+WB601,RwandAir,WB112,Harare (HRE),Kigali (KGL),KGL,2026-11-15,17:00,Regional,450
+UR701,Uganda Airlines,UR722,Harare (HRE),Entebbe (EBB),EBB,2026-11-15,15:45,Regional,420
+SA801,South African Airways,SA025,Harare (HRE),Johannesburg (JNB),JNB,2026-11-15,06:10,Regional,230
